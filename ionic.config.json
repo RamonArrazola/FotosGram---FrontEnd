@@ -1,0 +1,7 @@
+{
+  "name": "FotosGramFE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
